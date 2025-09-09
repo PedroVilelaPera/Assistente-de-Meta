@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/logo.png">
 </p>
+
 # Assistente de Meta para Jogos Competitivos 🏆
 Esse assistente de IA conseguirá te instruir sobre os melhores metas atualizados para que você possa alcançar o melhor desempenho nas suas partidas competitivas.
 
