@@ -15,5 +15,4 @@ Ter noção desses metas pode te colocar um passo à frente dos seus adversário
 - Gemini API
 
 ## Sobre o projeto
-Esse projeto fez parte da **vigésima edição do NLW** da [Rocketseat](https://www.rocketseat.com.br), um bootcamp de cinco dias focado em front-end em conjunto com agentes de IA. Durante esses dias eu pude aprender na prática como eu poderia usar o conhecimento que já possuia sobre HTML, CSS e JavaScript para poder contruir aplicações web turbinadas com o poder da inteligência artificial de forma mais simples do que eu imaginei.
-Foi uma experiência inesquecível que enriqueceu muito o meu conhecimento e com toda certeza estarei mais uma vez na próxima edição
+Esse projeto fez parte da **vigésima edição do NLW** da [Rocketseat](https://www.rocketseat.com.br), um bootcamp de cinco dias focado em front-end em conjunto com agentes de IA. Durante esses dias, pude aprender na prática como eu poderia usar o conhecimento que já possuía sobre HTML, CSS e JavaScript para poder construir aplicações web turbinadas com o poder da inteligência artificial de forma mais simples do que imaginei. Foi uma experiência inesquecível que enriqueceu muito o meu conhecimento e com toda certeza estarei mais uma vez na próxima edição.
